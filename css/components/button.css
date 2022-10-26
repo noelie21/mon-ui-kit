@@ -1,0 +1,10 @@
+.btn-orange{
+	background-color: #9F8772;
+	padding:  10px 15px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	text-align: center;
+	position: center;
+}
